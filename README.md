@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo-banner.png" alt="neo-brutalist design kit" width="720"></p>
+
 # Neo-Brutalist Design Kit
 
 Skills that teach Claude a bold, modern neo-brutalist design language: thick black borders, hard offset shadows, flat clashing colour, oversized type, icon stickers and playful shapes, while staying readable and professional.
