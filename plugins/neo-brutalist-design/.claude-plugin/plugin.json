@@ -1,0 +1,8 @@
+{
+  "name": "neo-brutalist-design",
+  "description": "Bold, modern neo-brutalist design language for any medium (web, slides, posters, brand assets) with a Google Slides build pipeline via Claude in Chrome.",
+  "version": "1.0.0",
+  "author": { "name": "Nasir Mustafayev" },
+  "license": "MIT",
+  "keywords": ["design", "neo-brutalism", "slides", "css", "branding"]
+}

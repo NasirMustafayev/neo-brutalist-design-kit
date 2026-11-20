@@ -1,0 +1,12 @@
+{
+  "name": "neo-brutalist-design-kit",
+  "owner": { "name": "Nasir Mustafayev" },
+  "metadata": { "description": "Bold, modern neo-brutalist design skills for Claude: websites, slides, posters and brand assets." },
+  "plugins": [
+    {
+      "name": "neo-brutalist-design",
+      "source": "./plugins/neo-brutalist-design",
+      "description": "A medium-agnostic neo-brutalist design playbook (tokens, components, CSS/SVG recipes) plus a Google Slides build pipeline."
+    }
+  ]
+}
