@@ -2,6 +2,30 @@
 
 Skills that teach Claude a bold, modern neo-brutalist design language: thick black borders, hard offset shadows, flat clashing colour, oversized type, icon stickers and playful shapes, while staying readable and professional.
 
+## Gallery
+
+What the style looks like in practice. Every example was made by Claude with these skills.
+
+### Conference talk slide (Google Slides)
+![Conference talk slide](docs/slide.png)
+
+### Landing page
+Source: [`examples/landing-page.html`](examples/landing-page.html), one self-contained file, open it in any browser.
+
+![Landing page](docs/landing-page.png)
+
+### Event poster
+Source: [`examples/poster.html`](examples/poster.html)
+
+<img src="docs/poster.png" width="480" alt="Event poster">
+
+### Social / blog card
+Source: [`examples/social-card.html`](examples/social-card.html)
+
+![Social card](docs/social-card.png)
+
+All examples use the same tokens: white dot-grid base, 4px black borders, hard offset shadows, flat pastel cards, yellow badges and marker, one red accent word.
+
 ## What's inside
 
 | Skill | Use it for |
